@@ -1,4 +1,4 @@
-![1445-01-21_07 08 28-removebg-preview](https://github.com/bixat/.github/assets/69054810/5414eb59-5997-4292-85cc-61d5d958e828)
+![1445-01-21_07 08 28-removebg-preview-2](https://github.com/bixat/.github/assets/69054810/097b925c-7a3c-4824-9627-3196064c1072)
 
 # Bixat Software Development Company
 
