@@ -13,7 +13,6 @@ We use the following languages for our software development projects:
 * TypeScript
 * Ruby
 * Swift
-* React
 
 ## Frameworks
 
