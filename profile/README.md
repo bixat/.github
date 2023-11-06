@@ -1,5 +1,5 @@
-![1445-01-21_07 08 28-removebg-preview-2](https://github.com/bixat/.github/assets/69054810/097b925c-7a3c-4824-9627-3196064c1072)
 
+![Bixat Logo-02](https://github.com/bixat/.github/assets/69054810/314854b9-8845-44cd-9e1d-94213f1a84db)
 # Bixat Software Development Company
 
 Bixat is a software development company that uses a variety of languages and frameworks to create high-quality software products. We believe in using the right tool for the job, and we have a team of experienced developers who are proficient in a wide range of technologies.
