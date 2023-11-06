@@ -11,8 +11,7 @@ We use the following languages for our software development projects:
 * Python
 * Dart
 * TypeScript
-* Ruby
-* Swift
+* Javascript
 
 ## Frameworks
 
