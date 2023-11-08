@@ -4,15 +4,6 @@
 
 Bixat is a software development company that uses a variety of languages and frameworks to create high-quality software products. We believe in using the right tool for the job, and we have a team of experienced developers who are proficient in a wide range of technologies.
 
-## Languages
-
-We use the following languages for our software development projects:
-
-* Python
-* Dart
-* TypeScript
-* Javascript
-
 ## Frameworks
 
 We use the following frameworks for our software development projects:
