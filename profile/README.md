@@ -41,4 +41,4 @@ We use GitHub projects to manage our software development projects. This allows 
 
 ## Contact Us
 
-If you are interested in working with Bixat, please contact us at [Bixat](bixat4software@gmail.com) We would be happy to discuss your project and how we can help you achieve your goals.
+If you are interested in working with Bixat, please contact us at [Bixat](bixat.dev) We would be happy to discuss your project and how we can help you achieve your goals.
