@@ -8,7 +8,7 @@
 # Bixat Software Development Company
 
 Bixat is a software development company that uses a variety of languages and frameworks to create high-quality software products. We believe in using the right tool for the job, and we have a team of experienced developers who are proficient in a wide range of technologies.
-## الأطر العمل
+## أطر العمل
 نحن نستخدم أطر العمل التالية لمشاريع تطوير البرمجيات لدينا
 * Flutter
 * Angular
