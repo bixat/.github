@@ -14,7 +14,12 @@ Bixat is a software development company that uses a variety of languages and fra
 * Angular
 * Django
 * Flask
-* React
+* MERN
+  - MongoDb
+  - ExpressJs
+  - ReactJs
+  - Node
+
 
 ## Frameworks
 
@@ -24,7 +29,11 @@ We use the following frameworks for our software development projects:
 * Angular
 * Django
 * Flask
-* React
+* MERN
+  - MongoDb
+  - ExpressJs
+  - ReactJs
+  - Node
 
 ## نهجنا
 نتبع نهجًا مستندًا إلى العميل في تطوير البرمجيات. نعمل عن كثب مع عملائنا لفهم احتياجاتهم ومتطلباتهم، ونستخدم خبرتنا لتقديم حلول تفي بتلك الاحتياجات. لدينا أيضًا التزام قوي تجاه الجودة، ونستخدم اختبارات شاملة ومراجعات الشفرة لضمان خلو برمجياتنا من العيوب.
