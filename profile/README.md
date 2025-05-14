@@ -59,13 +59,6 @@ A comprehensive list of open-source projects by Bixat, categorized by frameworks
    - Technologies: Ruby
    - [RubyGems Package](https://rubygems.org/gems/fastlane-plugin-flutter_bump_version)
 
-## Rust
-
-1. [RustFly-Releases](https://github.com/bixat/RustFly-Releases)
-   - Remote control application
-   - Technologies: Rust, Flutter
-   - [Product Page](https://bixat.dev/products/rustfly)
-
 ## License
 Most projects are available under the MIT License. Check individual repositories for specific licensing information.
 ---
