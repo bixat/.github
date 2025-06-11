@@ -1,5 +1,5 @@
 # بسم الله الرحمن الرحيم الحمد لله رب العالمين والصلاة والسلام على أشرف المرسلين ...
-
+<div align="center"><a href="https://ummaty.org/gaza"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="support-palestine-banner"></img></a></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/33500998?v=4" width="100" height="100">
   <h1>Bixat</h1>
